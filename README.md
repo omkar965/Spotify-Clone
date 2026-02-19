@@ -26,14 +26,14 @@ practice purposes.
 - Clean and modern UI
 
 ## 📂 Project Structure
+```text
 Spotify-Clone/
-│── project.html
-│── style.css
-│── assets/
-│ └── images/
-│ └── icons/
-│── README.md
-
+├── project.html
+├── style.css
+├── assets/
+│   ├── images/
+│   └── icons/
+└── README.md
 
 ## ▶️ How to Run
 1. Download or clone the repository
